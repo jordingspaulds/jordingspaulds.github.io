@@ -1,0 +1,11 @@
+# Site settings
+title: byte lyfe
+email: jordingspaulds@gmail.com
+description: "My name is Jordan Spaulding, and I am a 24 year old living in San Francisco learning to code with the unfortunate help of David Ratajczak. These are my frustrations." 
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
